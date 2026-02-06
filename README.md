@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ti3r
 - 👀 I’m interested in Java & Kotlin development for Mobile & Enterprise
-- 🌱 I’m currently learning about Android development with Jetpack Compose
-- 💞️ I’m looking to collaborate on mobile applications & ML
+- 🌱 I’m currently learning rust and embedded development
+- 💞️ I’m looking to collaborate on mobile / embedded applications & AI
 - 📫 How to reach me: email -> [ti3r.bubblenet@gmail.com](mailto:ti3r.bubblenet@gmail.com)
 
 <!---
